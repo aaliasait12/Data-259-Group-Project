@@ -3,7 +3,7 @@ Aalia Sait, Ayesha Ramnani, George Lin
 
 # Face-Off: Human and AI Emotion Perception
 
-Our project aims to investigate the question:
+Our project aims to investigate the question: <br>
 How do human judgments of facial emotions vary across race and gender, and to what extent do facial analysis models reflect or amplify these biases in their own predictions?
 
 ## Overview of Qualitative Methods: 
