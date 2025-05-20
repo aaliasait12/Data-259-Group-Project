@@ -1,5 +1,5 @@
 # Data-259-Group-Project
-Aalia Sait, Ayesha Ramnani, George Lin 
+Contributors: Aalia Sait, Ayesha Ramnani, George Lin 
 
 # Face-Off: Human and AI Emotion Perception
 
