@@ -81,16 +81,21 @@ b. Run emotion analysis
 
 # Final Deliverables of Our Project:
 
-### 1. Quantitative Analysis (Jupyter Notebook): 
--- i. Jupyter Notebook PDF: https://drive.google.com/file/d/1shxF5tVBePCjoht55XvzJ7pAOGQnXLvN/view?usp=drive_link <br><br>
--- ii. Jupyter Notebook .ipynb: https://drive.google.com/file/d/1c3th46a2Um-dV82kLKxUCb-YzBDI4FeM/view?usp=drive_link<br><br>
-
 ### 1. 1000 Summary Write-Up of our Project 
 -- i. Link: insert link when done <br>
 
 ### 2. Project Poster Deliverable: 
 -- i. Link: insert link when done<br>
 
+### 3. Project Presentation Slides: 
+-- i. Link: https://drive.google.com/file/d/1MrJvaLB-q-CCXXnMZl9wiafPGF-ZtVrm/view?usp=drive_link
+
+### 4. Project Presentation Video: 
+-- i. Link:
+
+### 5. Quantitative Analysis (Jupyter Notebook): 
+-- i. Jupyter Notebook PDF: https://drive.google.com/file/d/1shxF5tVBePCjoht55XvzJ7pAOGQnXLvN/view?usp=drive_link <br><br>
+-- ii. Jupyter Notebook .ipynb: https://drive.google.com/file/d/1c3th46a2Um-dV82kLKxUCb-YzBDI4FeM/view?usp=drive_link<br><br>
 
 
 
